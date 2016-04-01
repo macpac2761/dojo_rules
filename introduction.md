@@ -1,4 +1,3 @@
 Hello! I'm MACPAC.
-*Git
-*JavaScript
-*Ruby
+
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.\n\n* Ruby on Rails\n*Git\n* Rebase
